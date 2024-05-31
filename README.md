@@ -6,7 +6,7 @@
 💭 Currently learning Full stack development
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=NikhilN224&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nikhiln22&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 ## 🌐 Socials:
