@@ -8,6 +8,12 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=nikhiln22&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+<div style="display: inline_block"><br>
+  <h2>Languages and Tools</h2>
+  <a href="https://github.com/nikhiln22">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,mongodb" />
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-n-0a3541183)
