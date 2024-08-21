@@ -5,11 +5,12 @@
 👩🏻‍💻 Passonate Software developer sharing about my journey and learnings in tech<br/>
 💭 Currently learning Full stack development
 
+
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=nikhiln22&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
-## 🌐 Socials:
+<h3 align="left">Connect with me:</h3>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-n-0a3541183)
 
 # 💻 Tech Stack:
