@@ -9,10 +9,6 @@
 - 📫 How to reach me **nikhilnhegde@gmail.com**
 
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=nikhiln22&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/nikhil-n-0a3541183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurv jha" height="30" width="40" /></a>
 
