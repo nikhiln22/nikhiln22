@@ -1,27 +1,41 @@
-<!-- Add custom code -->
-# 👋 Hi, I'm Nikhil !
+<h1 align="center">Hi 👋, I'm Nikhil N</h1>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiln22&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil N" /> </p>
 
 - 👩🏻‍💻 Passonate Software developer sharing about my journey and learnings in tech<br/>
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💭 Currently learning Full stack development
+- 📫Reach me via **nikhilnhegde@gmail.com**
+## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhiln22/)
 
-- 📫 How to reach me **nikhilnhegde@gmail.com**
+ ## About Me
+I’m a creative and curious full-stack developer who enjoys building complete applications from the ground up. I’m passionate about solving real-world problems through clean, scalable code and designing intuitive user experiences. I thrive in collaborative environments, continuously learn new technologies, and enjoy contributing to projects that challenge me to grow both technically and professionally.
 
+## Skills
 
-<h3 align="left">Connect with me:</h3>
-<a href="www.linkedin.com/in/nikhiln22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurv jha" height="30" width="40" /></a>
+- **Programming Languages:** JavaScript, TypeScript, C
+- **Frontend Development:** React.js, Vite, Redux, Tailwind CSS, HTML, CSS, Ejs, BootStrap, Material UI
+- **Backend Development:** Node.js, Express.js, Bun.js, Elysia.js, REST APIS, WebSockets, Cloudinary, Multer, Socket.iO
+- **Database and Storage:** MongoDB, PostgresSQL, Redis, Firebase
+- **Architectural Patterns:** MVC, Clean Architecture
+- **Version Control:** Git, Github
+- **Containerization:** Docker
+- **CI/CD:** CI/CD Pipelines (GitHub Actions)
+- **Deployment:** AWS, Nginx, AWS Amplify, Cloudfront
+- **Familiar with:** DSA, Linux, VS Code, Postman, Figma, Moon Modellar, DBDiagram
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Projects
+
+You can find more of my projects on my [GitHub profile](https://github.com/nikhiln22).
+
+## Get in Touch
+
+If you'd like to connect or discuss potential collaborations, you can reach me via email at [nikhilnhegde@gmail.com](mailto:nikhilnhegde@gmail.com). I'm open to networking, and sharing insights related to MERN Stack and open-source development.
+
+<p align="center">
+  <strong>Let's connect and create something amazing together!</strong>
+</p>
+
+###
