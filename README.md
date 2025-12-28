@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil N</h1>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiln22&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil N" /> </p>
-
 - 👩🏻‍💻 Passonate Software developer sharing about my journey and learnings in tech<br/>
 - 🌱 I’m currently learning **MERN Stack**
 - 📫Reach me via **nikhilnhegde@gmail.com**
