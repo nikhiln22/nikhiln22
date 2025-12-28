@@ -5,10 +5,13 @@
 
 - 👩🏻‍💻 Passonate Software developer sharing about my journey and learnings in tech<br/>
 - 🌱 I’m currently learning **MERN Stack**
-
 - 📫Reach me via **nikhilnhegde@gmail.com**
+
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhiln22/)
+<a href="https://www.linkedin.com/in/nikhiln22/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
  ## About Me
 I’m a creative and curious full-stack developer who enjoys building complete applications from the ground up. I’m passionate about solving real-world problems through clean, scalable code and designing intuitive user experiences. I thrive in collaborative environments, continuously learn new technologies, and enjoy contributing to projects that challenge me to grow both technically and professionally.
