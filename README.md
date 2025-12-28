@@ -17,7 +17,7 @@ creative and curious full-stack developer who enjoys building complete applicati
 
 - **Programming Languages:** JavaScript, TypeScript, C
 - **Frontend Development:** React.js, Vite, Redux, Tailwind CSS, HTML, CSS, Ejs, BootStrap, Material UI
-- **Backend Development:** Node.js, Express.js, Bun.js, Elysia.js, REST APIS, WebSockets, Cloudinary, Multer, Socket.iO
+- **Backend Development:** Node.js, Express.js, Bun.js, Elysia.js, REST API'S, WebSockets, Cloudinary, Multer, Socket.iO
 - **Database and Storage:** MongoDB, PostgresSQL, Redis, Firebase
 - **Architectural Patterns:** MVC, Clean Architecture
 - **Version Control:** Git, Github
