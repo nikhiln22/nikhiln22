@@ -11,7 +11,7 @@
 
 
  ## About Me
-I’m a creative and curious full-stack developer who enjoys building complete applications from the ground up. I’m passionate about solving real-world problems through clean, scalable code and designing intuitive user experiences. I thrive in collaborative environments, continuously learn new technologies, and enjoy contributing to projects that challenge me to grow both technically and professionally.
+creative and curious full-stack developer who enjoys building complete applications from the ground up. I’m passionate about solving real-world problems through clean, scalable code and designing intuitive user experiences. I thrive in collaborative environments, continuously learn new technologies, and enjoy contributing to projects that challenge me to grow both technically and professionally.
 
 ## Skills
 
