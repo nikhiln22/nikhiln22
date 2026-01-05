@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil N</h1>
 
-- 👩🏻‍💻 Passonate Software developer sharing about my journey and learnings in tech<br/>
-- 🌱 I’m currently learning **MERN Stack**
-- 📫Reach me via **nikhilnhegde@gmail.com**
+🧑‍💻 Full Stack MERN Developer building production-ready web applications  
+📫 Reach me at nikhilnhegde@gmail.com
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/nikhiln22/" target="_blank" rel="noopener noreferrer">
